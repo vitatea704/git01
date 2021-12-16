@@ -35,3 +35,5 @@ for i in range(len(rank_list)):
         new_sheet.write(i + 1, j, table.cell(rank_list[i], j).value)
 
 workbook.save('建设银行.xls')
+
+##跟进第一天
