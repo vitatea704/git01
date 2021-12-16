@@ -1,5 +1,5 @@
 # Typora - 颠覆写作体验的极简好用 Markdown 编辑器 / MD 阅读器 (免费版收藏)
-
+**我在测试python的提交推送**
 
 
 自 **Typora** 诞生起，多年来一度非常厚道地 “完全免费” 提供给任何人下载使用。如今官方终于推出正式版并开始收费了，买断制 / 价格也不贵，喜欢的同学[强烈推荐入正补票](https://www.iplaysoft.com/go/typora)！Typora 可以说是最好的 Markdown 编辑器+阅读器之一了，也是我的[装机](https://www.iplaysoft.com/tag/装机)必备工具，「**绝对值回票价**」！
